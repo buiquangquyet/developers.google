@@ -351,7 +351,7 @@
 
 
     // TODO add service worker code here
-    console.log(navigator);
+    //console.log(navigator);
 
     if('serviceWorker' in navigator){
         navigator.serviceWorker
